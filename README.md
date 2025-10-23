@@ -9,7 +9,7 @@
 ## Descripción
 
 Este proyecto es una **Pokédex digital** creada con tecnologías web puras (sin frameworks).  
-Al escribir el nombre de un Pokémon en el buscador, la app realiza una consulta a la **PokéAPI** y muestra información como:
+Al escribir el nombre de un Pokémon en el buscador, la app realiza una consulta a la **PokéAPI** la cual son variables publica y demuestra su facilidad en aplicación, como:
 
 - Número de Pokédex  
 - Tipos de Pokémon  
